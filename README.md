@@ -1,1 +1,11 @@
-# LAB-4
+**Day 4 — Lab 4: Four-Ingredients Build-a-Prompt** focuses on developing structured and effective prompts for Generative AI applications in aviation management. The lab introduces four essential components of a strong prompt: **Task, Context, Constraints, and Output Format**.
+
+The lab begins by analysing a vague flight-delay prompt and identifying the information required to make it more specific and useful. Students examine missing details such as the flight number, route, delay duration, reason for delay, revised departure time, passenger instructions, tone, word limit, output format, and restrictions against invented information. This activity demonstrates how incomplete prompts can increase ambiguity and create a greater risk of unsupported AI-generated information.
+
+Students then construct a **structured flight-delay prompt** using the four ingredients. The Task specifies what the AI should produce, the Context provides verified flight and delay information, the Constraints establish requirements such as word limits and restrictions on invented policies, and the Output Format specifies that the response should be an SMS. The structured prompt is then compared with the original vague prompt to evaluate clarity, accuracy, relevance, completeness, passenger instructions, professional tone, and business safety.
+
+The lab also applies the four-ingredient framework to practical aviation scenarios, including **baggage-complaint analysis, flight-cancellation emails, and passenger satisfaction surveys**. Students learn to define the intended audience, use appropriate constraints, avoid requesting sensitive personal information, and include verification instructions where necessary.
+
+A peer-review activity is used to assess whether prompts contain sufficient context, specific constraints, a clear output format, an identifiable audience, and safeguards against unsupported assumptions. Students also perform a **one-variable test**, changing only one prompt component to observe how that change affects the generated output.
+
+Overall, the lab develops practical prompt-engineering skills and demonstrates how structured instructions can produce clearer, more relevant, and safer AI outputs. It emphasizes that effective prompting is not simply about asking a question; it requires providing the right task, context, constraints, and expected format.
